@@ -1,0 +1,32 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="signalGlow" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#footerBg)"/>
+  <rect width="1200" height="160" fill="url(#signalGlow)"/>
+
+  <!-- arcs -->
+  <g fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.25">
+    <path d="M450 160 A150 150 0 0 1 750 160"/>
+    <path d="M380 160 A220 220 0 0 1 820 160"/>
+    <path d="M310 160 A290 290 0 0 1 890 160"/>
+  </g>
+
+  <!-- sweeping gold line -->
+  <g>
+    <line x1="600" y1="160" x2="600" y2="20" stroke="#D4AF37" stroke-width="2" opacity="0.55">
+      <animateTransform attributeName="transform" type="rotate" from="-70 600 160" to="70 600 160" dur="3.4s" repeatCount="indefinite" additive="sum"/>
+    </line>
+  </g>
+
+  <text x="600" y="60" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#D4AF37" letter-spacing="2">BUILD → MEASURE → BREAK → LEARN → IMPROVE</text>
+  <text x="600" y="90" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#888888" font-style="italic">"The system is only as strong as the reasoning behind it."</text>
+</svg>
