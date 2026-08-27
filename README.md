@@ -117,7 +117,7 @@ languages: [English, Hindi, Kannada]
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanAG&layout=donut-vertical&hide_border=true&bg_color=050505&title_color=D4AF37&text_color=C9C9C9&langs_count=8" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SulemanAG&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <img src="assets/gold-divider.svg" width="100%" alt=""/>
@@ -256,10 +256,6 @@ A hybrid computer-vision architecture integrating **convolutional patch embeddin
 
 <img src="https://raw.githubusercontent.com/SulemanAG/SulemanAG/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
 <br/><sub>Generated automatically by <code>assets/snake.yml</code> — see setup note below.</sub>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/SulemanAG/SulemanAG/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
 
 <br/><br/>
 
