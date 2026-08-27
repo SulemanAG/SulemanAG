@@ -9,7 +9,7 @@
 <table>
 <tr><td align="center">
 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;“</sub><i>It's not who I am underneath, but what I build, what I solve, and what I commit that defines me.</i><sub>”&nbsp;&nbsp;&nbsp;&nbsp;</sub>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;“</sub><i>It's not who I am underneath, but what I commit that defines me.</i><sub>”&nbsp;&nbsp;&nbsp;&nbsp;</sub>
 <br/><br/>
 <sub><b>BUILD WITH PURPOSE • COMMIT WITH INTENT</b></sub>
 
