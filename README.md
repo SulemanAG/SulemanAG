@@ -249,7 +249,7 @@ A hybrid computer-vision architecture integrating **convolutional patch embeddin
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SulemanAG&bg_color=050505&color=D4AF37&line=D4AF37&point=F2F2F2&area=true&area_color=111111&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Activity graph"/>
+<img width="95%" src="https://svg-banners.vercel.app/api?type=origin&text1=CONTRIBUTION%20ACTIVITY&text2=SulemanAG&width=800&height=210&theme=dark" alt="Activity graph"/>
 
 
 <br/><br/>
