@@ -259,8 +259,14 @@ A hybrid computer-vision architecture integrating **convolutional patch embeddin
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SulemanAG&show_icons=true&hide_border=true&bg_color=050505&title_color=D4AF37&text_color=C9C9C9&icon_color=D4AF37&ring_color=D4AF37&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/SulemanAG/SulemanAG/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SulemanAG&show_icons=true&hide_border=true&bg_color=050505&title_color=D4AF37&text_color=C9C9C9&icon_color=D4AF37&ring_color=D4AF37&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats"/>
 <img src="https://streak-stats.demolab.com?user=SulemanAG&hide_border=true&background=050505&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9C9C9&dates=666666&currStreakNum=F2F2F2&sideNums=F2F2F2" width="48%" alt="Streak stats"/>
+
+</div>
 
 </div>
 
