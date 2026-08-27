@@ -53,7 +53,7 @@
 
 I design scalable Spring Boot services, event-driven architectures, and high-throughput transaction systems — with an emphasis on correctness, concurrency, and performance under real load.
 
-```yaml
+
 education:
   university: KLE Technological University, Hubballi
   program: B.E. CSE (Artificial Intelligence)
@@ -68,7 +68,7 @@ focus_areas:
   - Performance & load testing
 
 languages: [English, Hindi, Kannada]
-```
+
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -250,6 +250,7 @@ A hybrid computer-vision architecture integrating **convolutional patch embeddin
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SulemanAG&bg_color=050505&color=D4AF37&line=D4AF37&point=F2F2F2&area=true&area_color=111111&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Activity graph"/>
+
 
 <br/><br/>
 
