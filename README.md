@@ -255,7 +255,7 @@ A hybrid computer-vision architecture integrating **convolutional patch embeddin
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/SulemanAG/SulemanAG/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
-<br/><sub>Generated automatically by <code>.github/workflows/snake.yml</code> — see setup note below.</sub>
+<br/><sub>Generated automatically by <code>assets/snake.yml</code> — see setup note below.</sub>
 
 <br/><br/>
 
