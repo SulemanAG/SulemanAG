@@ -1,0 +1,7 @@
+<svg width="220" height="34" viewBox="0 0 220 34" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="34" rx="4" fill="#050505" stroke="#1E232F" stroke-width="1"/>
+  <text x="14" y="22" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#D4AF37">root@sulemanag:~$</text>
+  <rect x="164" y="10" width="9" height="14" fill="#D4AF37">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
